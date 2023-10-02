@@ -1,3 +1,24 @@
 body {
     background-color: cadetblue;
 }
+
+h1 {
+    margin: 50px;
+    text-align: center;
+}
+
+.pic {
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+.paragraphs {
+    background-color: beige;
+    color:  cadetblue;
+    text-align: center;
+    font-size: 2rem;
+    width: 60%;
+    margin: 30px auto;
+    padding: 20px;
+}
