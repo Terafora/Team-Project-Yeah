@@ -2,6 +2,11 @@ body {
     background-color: cadetblue;
 }
 
+h1 {
+    margin: 50px;
+    text-align: center;
+}
+
 .pic {
     width: 100%;
     min-height: 100%;
