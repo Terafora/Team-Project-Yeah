@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    border-radius: 8px;
+    background-color: #fefefe;
+
+}
+nav {
+    min-height: 10vh;
+}
+
+#hero {
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.home {
+    padding-top: 75px;
+    margin-bottom: 2rem;
+}
