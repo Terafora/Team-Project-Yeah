@@ -1,0 +1,13 @@
+.history-title {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.history-content {
+    background-color: aliceblue;
+    padding: 10px 15px;
+}
+.future {
+    text-align: center;
+    padding-top: 15px;
+}
